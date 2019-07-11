@@ -13,3 +13,5 @@ def link
 end
 
 def any_phrase(my_phrase)
+  puts my_phrase
+end
